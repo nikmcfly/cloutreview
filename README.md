@@ -3,8 +3,11 @@
 Chrome extension to review [BitClout](https://bitclout.com) users.
 
 ## Features
+
 – leave a (good, normal, bad) rating
+
 – write the comment
+
 – read reviews of others
 
 ## Visuals
@@ -13,9 +16,14 @@ Chrome extension to review [BitClout](https://bitclout.com) users.
 
 ## Setup
 
+– Download [CloutReview_v01.zip].
+
 – Visit chrome://extensions (via omnibox or menu -> Tools -> Extensions).
+
 – Enable Developer mode by ticking the checkbox in the upper-right corner.
+
 – Click on the "Load unpacked extension..." button.
+
 – Select the directory containing your unpacked extension.
 
 ## Privacy Policy
