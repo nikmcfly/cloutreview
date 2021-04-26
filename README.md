@@ -12,7 +12,7 @@ Chrome extension to review [BitClout](https://bitclout.com) users.
 
 ## Visuals
 
-
+![CloutReview](https://github.com/nikmcfly/cloutreview/blob/main/cloutreview.gif)
 
 ## Setup
 
