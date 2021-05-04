@@ -16,7 +16,7 @@ Chrome extension to review [BitClout](https://bitclout.com) users.
 
 ## Setup
 
-– Download [CloutReview_v01.zip](https://github.com/nikmcfly/cloutreview/blob/main/CloutReview_v01.zip).
+– Download [CloutReview_v11.zip](https://github.com/nikmcfly/cloutreview/blob/main/CloutReview_11.zip).
 
 – Visit chrome://extensions (via omnibox or menu -> Tools -> Extensions).
 
